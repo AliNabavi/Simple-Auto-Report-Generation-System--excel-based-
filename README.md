@@ -1,6 +1,6 @@
 # Automated-Report-Generation-System
 
-this project is a tracking system and automate report system generator of production (loadings) in  a sample factory.
+this project is an excel based tracking system and automate report system generator of production (loadings) in  a sample factory.
 
 This project has been written for a factory that have products with different codes and production is been reported as meterages, meterage is calculated by multiplying length and width of the product
 by count and a factor of 0.0001 to convert CM^2 to M^2.
